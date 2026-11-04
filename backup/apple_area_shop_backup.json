@@ -1,8 +1,8 @@
 {
   "app": "Apple Area Shop",
   "version": "1.0",
-  "backupTimestamp": 1793750509023,
-  "exportDate": "2026-11-04 06:01:49",
+  "backupTimestamp": 1793750517264,
+  "exportDate": "2026-11-04 06:01:57",
   "settings": {
     "shopName": "Apple Area Shop",
     "shopTagline": "Buy Sell & Exchange",
@@ -137,12 +137,12 @@
       "purchasePrice": 88000,
       "targetSalePrice": 96000,
       "imei": "351234567890123",
-      "status": "IN_STOCK",
+      "status": "RETURNED",
       "notes": "No scratches, full body lamination",
       "createdAt": 1793748834074,
-      "returnReason": "",
-      "returnedAt": null,
-      "returnRefundAmount": 0,
+      "returnReason": "অন্যান্য কারণ",
+      "returnedAt": 1793750509016,
+      "returnRefundAmount": 88000,
       "returnNotes": ""
     },
     {
@@ -157,12 +157,12 @@
       "purchasePrice": 54000,
       "targetSalePrice": 61000,
       "imei": "356789012345678",
-      "status": "IN_STOCK",
+      "status": "RETURNED",
       "notes": "Only original charger included",
       "createdAt": 1793748834074,
-      "returnReason": "",
-      "returnedAt": null,
-      "returnRefundAmount": 0,
+      "returnReason": "অন্যান্য কারণ",
+      "returnedAt": 1793750512577,
+      "returnRefundAmount": 54000,
       "returnNotes": ""
     },
     {
@@ -229,6 +229,26 @@
     }
   ],
   "expenses": [
+    {
+      "id": 11,
+      "type": "INCOME",
+      "category": "সাপ্লায়ার রিটার্ন রিফান্ড",
+      "amount": 54000,
+      "note": "রিটার্ন: iPhone 13 (356789012345678) - অন্যান্য কারণ",
+      "dateMillis": 1793750512579,
+      "paymentMethod": "Cash",
+      "referenceId": "RETURN_4"
+    },
+    {
+      "id": 10,
+      "type": "INCOME",
+      "category": "সাপ্লায়ার রিটার্ন রিফান্ড",
+      "amount": 88000,
+      "note": "রিটার্ন: iPhone 14 Pro (351234567890123) - অন্যান্য কারণ",
+      "dateMillis": 1793750509019,
+      "paymentMethod": "Cash",
+      "referenceId": "RETURN_3"
+    },
     {
       "id": 9,
       "type": "INCOME",
