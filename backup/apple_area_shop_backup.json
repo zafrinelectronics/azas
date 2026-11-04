@@ -1,8 +1,8 @@
 {
   "app": "Apple Area Shop",
   "version": "1.0",
-  "backupTimestamp": 1793813543320,
-  "exportDate": "2026-11-04 23:32:23",
+  "backupTimestamp": 1793816527455,
+  "exportDate": "2026-11-05 00:22:07",
   "settings": {
     "shopName": "Apple Area BD",
     "shopTagline": "Buy Sell & Exchange",
@@ -95,7 +95,7 @@
       "purchasePrice": 12300,
       "targetSalePrice": 12300,
       "imei": "987654321234567",
-      "status": "IN_STOCK",
+      "status": "SOLD",
       "notes": "USA LL\/A, 1 Year Service Warranty",
       "createdAt": 1793791392206,
       "returnReason": "",
