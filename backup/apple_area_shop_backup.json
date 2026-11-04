@@ -1,8 +1,8 @@
 {
   "app": "Apple Area Shop",
   "version": "1.0",
-  "backupTimestamp": 1793754563967,
-  "exportDate": "2026-11-04 07:09:23",
+  "backupTimestamp": 1793754708032,
+  "exportDate": "2026-11-04 07:11:48",
   "settings": {
     "shopName": "Apple Area Shop",
     "shopTagline": "Buy Sell & Exchange",
@@ -72,7 +72,7 @@
       "purchasePrice": 105000,
       "targetSalePrice": 117000,
       "imei": "357890123456780",
-      "status": "SOLD",
+      "status": "IN_STOCK",
       "notes": "Sold with silicone case",
       "createdAt": 1793748834111,
       "returnReason": "",
@@ -201,28 +201,7 @@
       "returnNotes": ""
     }
   ],
-  "sales": [
-    {
-      "id": 1,
-      "productId": 7,
-      "invoiceNumber": "AABD-100234",
-      "productDetails": "Apple iPhone 14 Pro Max (256GB, Space Black)",
-      "imei": "357890123456780",
-      "batteryHealth": "91%",
-      "boxCondition": "বক্স সহ (With Box)",
-      "customerName": "তানভীর আহমেদ (Tanvir Ahmed)",
-      "customerPhone": "01711223344",
-      "customerAddress": "ধানমন্ডি, ঢাকা",
-      "costPrice": 105000,
-      "salePrice": 116000,
-      "paidAmount": 116000,
-      "dueAmount": 0,
-      "paymentMethod": "ক্যাশ + বিকাশ",
-      "warrantyInfo": "১০ দিনের রিপ্লেসমেন্ট এবং ১ বছর ফ্রি সার্ভিস ওয়ারেন্টি",
-      "soldAt": 1793576034117,
-      "remarks": ""
-    }
-  ],
+  "sales": [],
   "expenses": [
     {
       "id": 2,
@@ -284,7 +263,7 @@
     {
       "id": 1,
       "username": "conock",
-      "password": "1205",
+      "password": "1219",
       "fullName": "CONOCK (Admin)",
       "role": "ADMIN",
       "phone": "01930833375",
