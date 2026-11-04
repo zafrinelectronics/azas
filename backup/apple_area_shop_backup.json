@@ -1,8 +1,8 @@
 {
   "app": "Apple Area Shop",
   "version": "1.0",
-  "backupTimestamp": 1793764697161,
-  "exportDate": "2026-11-04 09:58:17",
+  "backupTimestamp": 1793764778194,
+  "exportDate": "2026-11-04 09:59:38",
   "settings": {
     "shopName": "Apple Area BD",
     "shopTagline": "Buy Sell & Exchange",
@@ -61,6 +61,26 @@
     ]
   },
   "products": [
+    {
+      "id": 9,
+      "company": "Apple",
+      "model": "iPhone 3",
+      "variant": "64GB",
+      "color": "Orchid",
+      "batteryHealth": "50%",
+      "boxCondition": "বক্স ছাড়া (Device Only)",
+      "supplier": "Nai",
+      "purchasePrice": 500,
+      "targetSalePrice": 13500,
+      "imei": "234231367890764",
+      "status": "SOLD",
+      "notes": "USA LL\/A, 1 Year Service Warranty",
+      "createdAt": 1793764697136,
+      "returnReason": "",
+      "returnedAt": null,
+      "returnRefundAmount": 0,
+      "returnNotes": ""
+    },
     {
       "id": 8,
       "company": "Apple",
