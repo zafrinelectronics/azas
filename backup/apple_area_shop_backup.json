@@ -1,8 +1,8 @@
 {
   "app": "Apple Area Shop",
   "version": "1.0",
-  "backupTimestamp": 1793764778194,
-  "exportDate": "2026-11-04 09:59:38",
+  "backupTimestamp": 1793764902266,
+  "exportDate": "2026-11-04 10:01:42",
   "settings": {
     "shopName": "Apple Area BD",
     "shopTagline": "Buy Sell & Exchange",
@@ -243,6 +243,26 @@
     }
   ],
   "sales": [
+    {
+      "id": 3,
+      "productId": 9,
+      "invoiceNumber": "AABD-778181",
+      "productDetails": "Apple iPhone 3 (64GB, Orchid)",
+      "imei": "234231367890764",
+      "batteryHealth": "50%",
+      "boxCondition": "বক্স ছাড়া (Device Only)",
+      "customerName": "Hamid",
+      "customerPhone": "01234513487",
+      "customerAddress": "Dhaka",
+      "costPrice": 500,
+      "salePrice": 600,
+      "paidAmount": 580,
+      "dueAmount": 20,
+      "paymentMethod": "ক্যাশ (Cash)",
+      "warrantyInfo": "• 7 Days Replacement Guarantee Without Physical Damage, Touch Display & Update Issue.\n• 2 Years Service Warranty Without Parts & update issue.\n• 30% - 35% Deducted From Sell Amount and Exchange.",
+      "soldAt": 1793764778181,
+      "remarks": "কিছুদিনের ভিতরেই দিয়ে দিবে"
+    },
     {
       "id": 2,
       "productId": 7,
