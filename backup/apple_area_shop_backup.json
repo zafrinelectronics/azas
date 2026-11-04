@@ -1,8 +1,8 @@
 {
   "app": "Apple Area Shop",
   "version": "1.0",
-  "backupTimestamp": 1793764591014,
-  "exportDate": "2026-11-04 09:56:31",
+  "backupTimestamp": 1793764697161,
+  "exportDate": "2026-11-04 09:58:17",
   "settings": {
     "shopName": "Apple Area BD",
     "shopTagline": "Buy Sell & Exchange",
@@ -61,6 +61,26 @@
     ]
   },
   "products": [
+    {
+      "id": 8,
+      "company": "Apple",
+      "model": "iPhone 14 Pro Max",
+      "variant": "128GB",
+      "color": "Deep Purple",
+      "batteryHealth": "85%",
+      "boxCondition": "বক্স সহ (Original Box)",
+      "supplier": "Customer",
+      "purchasePrice": 20000,
+      "targetSalePrice": 20000,
+      "imei": "353751259712561",
+      "status": "IN_STOCK",
+      "notes": "Display Change & Main Camera Problem",
+      "createdAt": 1793764590993,
+      "returnReason": "",
+      "returnedAt": null,
+      "returnRefundAmount": 0,
+      "returnNotes": ""
+    },
     {
       "id": 7,
       "company": "Apple",
