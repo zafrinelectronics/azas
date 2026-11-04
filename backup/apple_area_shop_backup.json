@@ -1,8 +1,8 @@
 {
   "app": "Apple Area Shop",
   "version": "1.0",
-  "backupTimestamp": 1793750503757,
-  "exportDate": "2026-11-04 06:01:43",
+  "backupTimestamp": 1793750509023,
+  "exportDate": "2026-11-04 06:01:49",
   "settings": {
     "shopName": "Apple Area Shop",
     "shopTagline": "Buy Sell & Exchange",
@@ -117,12 +117,12 @@
       "purchasePrice": 78000,
       "targetSalePrice": 85000,
       "imei": "359871023456789",
-      "status": "IN_STOCK",
+      "status": "RETURNED",
       "notes": "Very fresh, 10 days replacement",
       "createdAt": 1793748834074,
-      "returnReason": "",
-      "returnedAt": null,
-      "returnRefundAmount": 0,
+      "returnReason": "অন্যান্য কারণ",
+      "returnedAt": 1793750503752,
+      "returnRefundAmount": 78000,
       "returnNotes": ""
     },
     {
@@ -229,6 +229,16 @@
     }
   ],
   "expenses": [
+    {
+      "id": 9,
+      "type": "INCOME",
+      "category": "সাপ্লায়ার রিটার্ন রিফান্ড",
+      "amount": 78000,
+      "note": "রিটার্ন: iPhone 15 (359871023456789) - অন্যান্য কারণ",
+      "dateMillis": 1793750503754,
+      "paymentMethod": "Cash",
+      "referenceId": "RETURN_2"
+    },
     {
       "id": 8,
       "type": "INCOME",
