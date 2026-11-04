@@ -1,8 +1,8 @@
 {
   "app": "Apple Area Shop",
   "version": "1.0",
-  "backupTimestamp": 1793813496011,
-  "exportDate": "2026-11-04 23:31:36",
+  "backupTimestamp": 1793813543320,
+  "exportDate": "2026-11-04 23:32:23",
   "settings": {
     "shopName": "Apple Area BD",
     "shopTagline": "Buy Sell & Exchange",
@@ -63,6 +63,26 @@
     ]
   },
   "products": [
+    {
+      "id": 11,
+      "company": "Symphony",
+      "model": "Hero 30 Mini",
+      "variant": "2TB",
+      "color": "Gunmetal Grey",
+      "batteryHealth": "100% (Brand New)",
+      "boxCondition": "বক্স সহ (Original Box)",
+      "supplier": "Boyan Vai",
+      "purchasePrice": 285000,
+      "targetSalePrice": 390000,
+      "imei": "000000000000000",
+      "status": "IN_STOCK",
+      "notes": "No warranty no guarantee",
+      "createdAt": 1793813495977,
+      "returnReason": "",
+      "returnedAt": null,
+      "returnRefundAmount": 0,
+      "returnNotes": ""
+    },
     {
       "id": 10,
       "company": "Apple",
