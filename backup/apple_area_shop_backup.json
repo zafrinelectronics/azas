@@ -1,8 +1,8 @@
 {
   "app": "Apple Area Shop",
   "version": "1.0",
-  "backupTimestamp": 1793750517264,
-  "exportDate": "2026-11-04 06:01:57",
+  "backupTimestamp": 1793750520856,
+  "exportDate": "2026-11-04 06:02:00",
   "settings": {
     "shopName": "Apple Area Shop",
     "shopTagline": "Buy Sell & Exchange",
@@ -177,12 +177,12 @@
       "purchasePrice": 125000,
       "targetSalePrice": 135000,
       "imei": "359012345678901",
-      "status": "IN_STOCK",
+      "status": "RETURNED",
       "notes": "Snapdragon Edition, Official BTRC Approved",
       "createdAt": 1793748834074,
-      "returnReason": "",
-      "returnedAt": null,
-      "returnRefundAmount": 0,
+      "returnReason": "অন্যান্য কারণ",
+      "returnedAt": 1793750517254,
+      "returnRefundAmount": 125000,
       "returnNotes": ""
     },
     {
@@ -197,12 +197,12 @@
       "purchasePrice": 72000,
       "targetSalePrice": 79000,
       "imei": "353456789012345",
-      "status": "IN_STOCK",
+      "status": "RETURNED",
       "notes": "Mint condition, eSIM active",
       "createdAt": 1793748834074,
-      "returnReason": "",
-      "returnedAt": null,
-      "returnRefundAmount": 0,
+      "returnReason": "অন্যান্য কারণ",
+      "returnedAt": 1793750520839,
+      "returnRefundAmount": 72000,
       "returnNotes": ""
     }
   ],
@@ -229,6 +229,16 @@
     }
   ],
   "expenses": [
+    {
+      "id": 12,
+      "type": "INCOME",
+      "category": "সাপ্লায়ার রিটার্ন রিফান্ড",
+      "amount": 125000,
+      "note": "রিটার্ন: Galaxy S24 Ultra (359012345678901) - অন্যান্য কারণ",
+      "dateMillis": 1793750517257,
+      "paymentMethod": "Cash",
+      "referenceId": "RETURN_5"
+    },
     {
       "id": 11,
       "type": "INCOME",
