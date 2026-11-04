@@ -1,15 +1,15 @@
 {
   "app": "Apple Area Shop",
   "version": "1.0",
-  "backupTimestamp": 1793762112349,
-  "exportDate": "2026-11-04 09:15:12",
+  "backupTimestamp": 1793763796765,
+  "exportDate": "2026-11-04 09:43:16",
   "settings": {
-    "shopName": "Apple Area Shop",
+    "shopName": "Apple Area BD",
     "shopTagline": "Buy Sell & Exchange",
     "shopPhone": "01930833375, 01758596640",
     "shopAddress": "Shop No # 100, Basement - 1, Bashundhara City Shopping Mall, Panthapath, Dhaka- 1205",
     "appLanguage": "EN",
-    "warrantyReplacement": "7 Days Replacement Guarantee Without physical Damage & Touch Display.",
+    "warrantyReplacement": "7 Days Replacement Guarantee Without Physical Damage, Touch Display & Update Issue.",
     "warrantyService": "2 Years Service Warranty Without Parts & update issue.",
     "warrantyExchangeDeduction": "30% - 35% Deducted From Sell Amount and Exchange.",
     "companyPresets": [
@@ -201,7 +201,28 @@
       "returnNotes": ""
     }
   ],
-  "sales": [],
+  "sales": [
+    {
+      "id": 2,
+      "productId": 7,
+      "invoiceNumber": "AABD-112257",
+      "productDetails": "Apple iPhone 14 Pro Max (256GB, Space Black)",
+      "imei": "357890123456780",
+      "batteryHealth": "91%",
+      "boxCondition": "বক্স সহ (With Box)",
+      "customerName": "ali",
+      "customerPhone": "01999875875",
+      "customerAddress": "",
+      "costPrice": 105000,
+      "salePrice": 117000,
+      "paidAmount": 117000,
+      "dueAmount": 0,
+      "paymentMethod": "ক্যাশ (Cash)",
+      "warrantyInfo": "• 7 Days Replacement Guarantee Without physical Damage & Touch Display.\n• 2 Years Service Warranty Without Parts & update issue.\n• 30% - 35% Deducted From Sell Amount and Exchange.",
+      "soldAt": 1793762112274,
+      "remarks": ""
+    }
+  ],
   "expenses": [
     {
       "id": 2,
