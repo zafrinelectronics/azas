@@ -1,8 +1,8 @@
 {
   "app": "Apple Area Shop",
   "version": "1.0",
-  "backupTimestamp": 1793764364893,
-  "exportDate": "2026-11-04 09:52:44",
+  "backupTimestamp": 1793764591014,
+  "exportDate": "2026-11-04 09:56:31",
   "settings": {
     "shopName": "Apple Area BD",
     "shopTagline": "Buy Sell & Exchange",
@@ -56,7 +56,8 @@
     "supplierPresets": [
       "GB",
       "Customer Exchange",
-      "Nahid MaMa"
+      "Nahid MaMa",
+      "Customer"
     ]
   },
   "products": [
@@ -218,7 +219,7 @@
       "paidAmount": 117000,
       "dueAmount": 0,
       "paymentMethod": "ক্যাশ (Cash)",
-      "warrantyInfo": "• 7 Days Replacement Guarantee Without physical Damage & Touch Display.\n• 2 Years Service Warranty Without Parts & update issue.\n• 30% - 35% Deducted From Sell Amount and Exchange.",
+      "warrantyInfo": "• 7 Days Replacement Guarantee Without Physical Damage & Touch Display.\n• 2 Years Service Warranty Without Parts & Update Issue.\n• 30% - 35% Deducted From Sell Amount and Exchange.",
       "soldAt": 1793762112274,
       "remarks": ""
     }
