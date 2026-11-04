@@ -1,8 +1,8 @@
 {
   "app": "Apple Area Shop",
   "version": "1.0",
-  "backupTimestamp": 1793754957745,
-  "exportDate": "2026-11-04 07:15:57",
+  "backupTimestamp": 1793762112349,
+  "exportDate": "2026-11-04 09:15:12",
   "settings": {
     "shopName": "Apple Area Shop",
     "shopTagline": "Buy Sell & Exchange",
@@ -72,7 +72,7 @@
       "purchasePrice": 105000,
       "targetSalePrice": 117000,
       "imei": "357890123456780",
-      "status": "IN_STOCK",
+      "status": "SOLD",
       "notes": "Sold with silicone case",
       "createdAt": 1793748834111,
       "returnReason": "",
