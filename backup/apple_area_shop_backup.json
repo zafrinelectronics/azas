@@ -1,8 +1,8 @@
 {
   "app": "Apple Area Shop",
   "version": "1.0",
-  "backupTimestamp": 1793810499664,
-  "exportDate": "2026-11-04 22:41:39",
+  "backupTimestamp": 1793813496011,
+  "exportDate": "2026-11-04 23:31:36",
   "settings": {
     "shopName": "Apple Area BD",
     "shopTagline": "Buy Sell & Exchange",
@@ -27,7 +27,8 @@
       "128GB",
       "256GB",
       "512GB",
-      "1TB"
+      "1TB",
+      "2TB"
     ],
     "colorPresets": [
       "Natural Titanium",
@@ -57,10 +58,31 @@
       "GB",
       "Customer Exchange",
       "Nahid MaMa",
-      "Customer"
+      "Customer",
+      "Boyan Vai"
     ]
   },
   "products": [
+    {
+      "id": 10,
+      "company": "Apple",
+      "model": "iphone 11",
+      "variant": "128GB",
+      "color": "Blue",
+      "batteryHealth": "85%",
+      "boxCondition": "বক্স ছাড়া (Device Only)",
+      "supplier": "GB",
+      "purchasePrice": 12300,
+      "targetSalePrice": 12300,
+      "imei": "987654321234567",
+      "status": "IN_STOCK",
+      "notes": "USA LL\/A, 1 Year Service Warranty",
+      "createdAt": 1793791392206,
+      "returnReason": "",
+      "returnedAt": null,
+      "returnRefundAmount": 0,
+      "returnNotes": ""
+    },
     {
       "id": 7,
       "company": "Apple",
@@ -408,7 +430,7 @@
   ],
   "employees": [
     {
-      "id": 2,
+      "id": 4,
       "name": "তানজিল আহমেদ (Tanjil)",
       "designation": "সিনিয়র সেলস এক্সিকিউটিভ",
       "phone": "01930833375",
@@ -420,7 +442,7 @@
       "notes": "কাস্টমার ডিলিং এবং ডিভাইস চেক"
     },
     {
-      "id": 1,
+      "id": 5,
       "name": "মোঃ আরিফুল ইসলাম (Arif)",
       "designation": "ম্যানেজার (Store Manager)",
       "phone": "01758596640",
@@ -432,7 +454,7 @@
       "notes": "ক্যাশ ও ইনভেন্টরি তদারকি"
     },
     {
-      "id": 3,
+      "id": 6,
       "name": "সাকিবুল হাসান (Sakib)",
       "designation": "হার্ডওয়্যার ও টেকনিশিয়ান",
       "phone": "01812345678",
