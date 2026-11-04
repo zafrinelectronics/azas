@@ -1,8 +1,8 @@
 {
   "app": "Apple Area Shop",
   "version": "1.0",
-  "backupTimestamp": 1793790277169,
-  "exportDate": "2026-11-04 17:04:37",
+  "backupTimestamp": 1793790305520,
+  "exportDate": "2026-11-04 17:05:05",
   "settings": {
     "shopName": "Apple Area BD",
     "shopTagline": "Buy Sell & Exchange",
@@ -93,7 +93,7 @@
       "purchasePrice": 20000,
       "targetSalePrice": 20000,
       "imei": "353751259712561",
-      "status": "IN_STOCK",
+      "status": "SOLD",
       "notes": "Display Change & Main Camera Problem",
       "createdAt": 1793764590993,
       "returnReason": "",
