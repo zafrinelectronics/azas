@@ -1,8 +1,8 @@
 {
   "app": "Apple Area Shop",
   "version": "1.0",
-  "backupTimestamp": 1793816527455,
-  "exportDate": "2026-11-05 00:22:07",
+  "backupTimestamp": 1793917502315,
+  "exportDate": "2026-11-06 04:25:02",
   "settings": {
     "shopName": "Apple Area BD",
     "shopTagline": "Buy Sell & Exchange",
@@ -64,46 +64,6 @@
   },
   "products": [
     {
-      "id": 11,
-      "company": "Symphony",
-      "model": "Hero 30 Mini",
-      "variant": "2TB",
-      "color": "Gunmetal Grey",
-      "batteryHealth": "100% (Brand New)",
-      "boxCondition": "বক্স সহ (Original Box)",
-      "supplier": "Boyan Vai",
-      "purchasePrice": 285000,
-      "targetSalePrice": 390000,
-      "imei": "000000000000000",
-      "status": "IN_STOCK",
-      "notes": "No warranty no guarantee",
-      "createdAt": 1793813495977,
-      "returnReason": "",
-      "returnedAt": null,
-      "returnRefundAmount": 0,
-      "returnNotes": ""
-    },
-    {
-      "id": 10,
-      "company": "Apple",
-      "model": "iphone 11",
-      "variant": "128GB",
-      "color": "Blue",
-      "batteryHealth": "85%",
-      "boxCondition": "বক্স ছাড়া (Device Only)",
-      "supplier": "GB",
-      "purchasePrice": 12300,
-      "targetSalePrice": 12300,
-      "imei": "987654321234567",
-      "status": "SOLD",
-      "notes": "USA LL\/A, 1 Year Service Warranty",
-      "createdAt": 1793791392206,
-      "returnReason": "",
-      "returnedAt": null,
-      "returnRefundAmount": 0,
-      "returnNotes": ""
-    },
-    {
       "id": 7,
       "company": "Apple",
       "model": "iPhone 14 Pro Max",
@@ -117,7 +77,7 @@
       "imei": "357890123456780",
       "status": "SOLD",
       "notes": "Sold with silicone case",
-      "createdAt": 1793791177538,
+      "createdAt": 1793909850144,
       "returnReason": "",
       "returnedAt": null,
       "returnRefundAmount": 0,
@@ -137,7 +97,7 @@
       "imei": "354891098234125",
       "status": "RETURNED",
       "notes": "USA LL\/A, 1 Year International Warranty",
-      "createdAt": 1793791177523,
+      "createdAt": 1793909850139,
       "returnReason": "",
       "returnedAt": null,
       "returnRefundAmount": 0,
@@ -157,7 +117,7 @@
       "imei": "359871023456789",
       "status": "RETURNED",
       "notes": "Very fresh, 10 days replacement",
-      "createdAt": 1793791177523,
+      "createdAt": 1793909850139,
       "returnReason": "",
       "returnedAt": null,
       "returnRefundAmount": 0,
@@ -177,7 +137,7 @@
       "imei": "351234567890123",
       "status": "RETURNED",
       "notes": "No scratches, full body lamination",
-      "createdAt": 1793791177523,
+      "createdAt": 1793909850139,
       "returnReason": "",
       "returnedAt": null,
       "returnRefundAmount": 0,
@@ -197,7 +157,7 @@
       "imei": "356789012345678",
       "status": "RETURNED",
       "notes": "Only original charger included",
-      "createdAt": 1793791177523,
+      "createdAt": 1793909850139,
       "returnReason": "",
       "returnedAt": null,
       "returnRefundAmount": 0,
@@ -217,7 +177,7 @@
       "imei": "359012345678901",
       "status": "RETURNED",
       "notes": "Snapdragon Edition, Official BTRC Approved",
-      "createdAt": 1793791177523,
+      "createdAt": 1793909850139,
       "returnReason": "",
       "returnedAt": null,
       "returnRefundAmount": 0,
@@ -237,7 +197,7 @@
       "imei": "353456789012345",
       "status": "RETURNED",
       "notes": "Mint condition, eSIM active",
-      "createdAt": 1793791177523,
+      "createdAt": 1793909850139,
       "returnReason": "",
       "returnedAt": null,
       "returnRefundAmount": 0,
@@ -245,6 +205,46 @@
     },
     {
       "id": 8,
+      "company": "Symphony",
+      "model": "Hero 30 Mini",
+      "variant": "2TB",
+      "color": "Gunmetal Grey",
+      "batteryHealth": "100% (Brand New)",
+      "boxCondition": "বক্স সহ (Original Box)",
+      "supplier": "Boyan Vai",
+      "purchasePrice": 285000,
+      "targetSalePrice": 390000,
+      "imei": "000000000000000",
+      "status": "IN_STOCK",
+      "notes": "No warranty no guarantee",
+      "createdAt": 1793813495977,
+      "returnReason": "",
+      "returnedAt": null,
+      "returnRefundAmount": 0,
+      "returnNotes": ""
+    },
+    {
+      "id": 9,
+      "company": "Apple",
+      "model": "iphone 11",
+      "variant": "128GB",
+      "color": "Blue",
+      "batteryHealth": "85%",
+      "boxCondition": "বক্স ছাড়া (Device Only)",
+      "supplier": "GB",
+      "purchasePrice": 12300,
+      "targetSalePrice": 12300,
+      "imei": "987654321234567",
+      "status": "SOLD",
+      "notes": "USA LL\/A, 1 Year Service Warranty",
+      "createdAt": 1793791392206,
+      "returnReason": "",
+      "returnedAt": null,
+      "returnRefundAmount": 0,
+      "returnNotes": ""
+    },
+    {
+      "id": 10,
       "company": "Apple",
       "model": "iPhone 3",
       "variant": "64GB",
@@ -264,7 +264,7 @@
       "returnNotes": ""
     },
     {
-      "id": 9,
+      "id": 11,
       "company": "Apple",
       "model": "iPhone 14 Pro Max",
       "variant": "128GB",
@@ -342,28 +342,28 @@
       "dueAmount": 6000,
       "paymentMethod": "ক্যাশ + বিকাশ",
       "warrantyInfo": "১০ দিনের রিপ্লেসমেন্ট এবং ১ বছর ফ্রি সার্ভিস ওয়ারেন্টি",
-      "soldAt": 1793618377542,
+      "soldAt": 1793737050146,
       "remarks": "বাকি ৬,০০০ টাকা আগামী মাসের ১ তারিখে দেবে।"
     }
   ],
   "expenses": [
-    {
-      "id": 3,
-      "type": "EXPENSE",
-      "category": "নাস্তা ও আপ্যায়ন",
-      "amount": 650,
-      "note": "কাস্টমার এবং স্টাফদের দুপুরের নাস্তা ও চা",
-      "dateMillis": 1793704777567,
-      "paymentMethod": "Cash",
-      "referenceId": null
-    },
     {
       "id": 7,
       "type": "INCOME",
       "category": "সার্ভিসিং বিল",
       "amount": 3500,
       "note": "iPhone 13 ব্যাটারি পরিবর্তন সার্ভিস চার্জ",
-      "dateMillis": 1793704777567,
+      "dateMillis": 1793823450160,
+      "paymentMethod": "Cash",
+      "referenceId": null
+    },
+    {
+      "id": 3,
+      "type": "EXPENSE",
+      "category": "নাস্তা ও আপ্যায়ন",
+      "amount": 650,
+      "note": "কাস্টমার এবং স্টাফদের দুপুরের নাস্তা ও চা",
+      "dateMillis": 1793823450159,
       "paymentMethod": "Cash",
       "referenceId": null
     },
@@ -373,12 +373,62 @@
       "category": "কর্মচারীর বেতন",
       "amount": 15000,
       "note": "বেতন: তানজিল আহমেদ (Tanjil) (অক্টোবর ২০২৬) - PARTIAL",
+      "dateMillis": 1793737050160,
+      "paymentMethod": "ক্যাশ",
+      "referenceId": "SALARY_2"
+    },
+    {
+      "id": 8,
+      "type": "EXPENSE",
+      "category": "নাস্তা ও আপ্যায়ন",
+      "amount": 650,
+      "note": "কাস্টমার এবং স্টাফদের দুপুরের নাস্তা ও চা",
+      "dateMillis": 1793704777567,
+      "paymentMethod": "Cash",
+      "referenceId": null
+    },
+    {
+      "id": 9,
+      "type": "INCOME",
+      "category": "সার্ভিসিং বিল",
+      "amount": 3500,
+      "note": "iPhone 13 ব্যাটারি পরিবর্তন সার্ভিস চার্জ",
+      "dateMillis": 1793704777567,
+      "paymentMethod": "Cash",
+      "referenceId": null
+    },
+    {
+      "id": 5,
+      "type": "EXPENSE",
+      "category": "কর্মচারীর বেতন",
+      "amount": 28000,
+      "note": "বেতন: মোঃ আরিফুল ইসলাম (Arif) (অক্টোবর ২০২৬) - FULL",
+      "dateMillis": 1793650650160,
+      "paymentMethod": "ব্যাংক ট্রান্সফার",
+      "referenceId": "SALARY_1"
+    },
+    {
+      "id": 10,
+      "type": "EXPENSE",
+      "category": "কর্মচারীর বেতন",
+      "amount": 15000,
+      "note": "বেতন: তানজিল আহমেদ (Tanjil) (অক্টোবর ২০২৬) - PARTIAL",
       "dateMillis": 1793618377567,
       "paymentMethod": "ক্যাশ",
       "referenceId": "SALARY_2"
     },
     {
-      "id": 5,
+      "id": 2,
+      "type": "EXPENSE",
+      "category": "বিদ্যুৎ ও ইউটিলিটি",
+      "amount": 4500,
+      "note": "দোকানের বিদ্যুৎ বিল পরিশোধ",
+      "dateMillis": 1793564250159,
+      "paymentMethod": "বিকাশ",
+      "referenceId": null
+    },
+    {
+      "id": 11,
       "type": "EXPENSE",
       "category": "কর্মচারীর বেতন",
       "amount": 28000,
@@ -388,7 +438,17 @@
       "referenceId": "SALARY_1"
     },
     {
-      "id": 2,
+      "id": 1,
+      "type": "EXPENSE",
+      "category": "দোকান ভাড়া",
+      "amount": 35000,
+      "note": "বসুন্ধরা সিটি শপ নং ১০০ এর চলতি মাসের ভাড়া",
+      "dateMillis": 1793477850159,
+      "paymentMethod": "ব্যাংক চেক",
+      "referenceId": null
+    },
+    {
+      "id": 12,
       "type": "EXPENSE",
       "category": "বিদ্যুৎ ও ইউটিলিটি",
       "amount": 4500,
@@ -398,7 +458,7 @@
       "referenceId": null
     },
     {
-      "id": 8,
+      "id": 13,
       "type": "EXPENSE",
       "category": "বিদ্যুৎ ও ইউটিলিটি",
       "amount": 4500,
@@ -408,7 +468,17 @@
       "referenceId": null
     },
     {
-      "id": 1,
+      "id": 4,
+      "type": "EXPENSE",
+      "category": "ওয়াইফাই ও ইন্টারনেট",
+      "amount": 1200,
+      "note": "দোকানের হাইস্পিড ব্রডব্যান্ড বিল",
+      "dateMillis": 1793391450159,
+      "paymentMethod": "বিকাশ",
+      "referenceId": null
+    },
+    {
+      "id": 14,
       "type": "EXPENSE",
       "category": "দোকান ভাড়া",
       "amount": 35000,
@@ -418,7 +488,7 @@
       "referenceId": null
     },
     {
-      "id": 9,
+      "id": 15,
       "type": "EXPENSE",
       "category": "দোকান ভাড়া",
       "amount": 35000,
@@ -428,7 +498,7 @@
       "referenceId": null
     },
     {
-      "id": 4,
+      "id": 16,
       "type": "EXPENSE",
       "category": "ওয়াইফাই ও ইন্টারনেট",
       "amount": 1200,
@@ -438,7 +508,7 @@
       "referenceId": null
     },
     {
-      "id": 10,
+      "id": 17,
       "type": "EXPENSE",
       "category": "ওয়াইফাই ও ইন্টারনেট",
       "amount": 1200,
@@ -450,36 +520,36 @@
   ],
   "employees": [
     {
-      "id": 4,
+      "id": 2,
       "name": "তানজিল আহমেদ (Tanjil)",
       "designation": "সিনিয়র সেলস এক্সিকিউটিভ",
       "phone": "01930833375",
       "monthlySalary": 20000,
-      "joiningDateMillis": 1786015177547,
+      "joiningDateMillis": 1786133850150,
       "isActive": true,
       "address": "ফার্মগেট, ঢাকা",
       "nidNumber": "",
       "notes": "কাস্টমার ডিলিং এবং ডিভাইস চেক"
     },
     {
-      "id": 5,
+      "id": 1,
       "name": "মোঃ আরিফুল ইসলাম (Arif)",
       "designation": "ম্যানেজার (Store Manager)",
       "phone": "01758596640",
       "monthlySalary": 28000,
-      "joiningDateMillis": 1778239177547,
+      "joiningDateMillis": 1778357850150,
       "isActive": true,
       "address": "পান্থপথ, ঢাকা",
       "nidNumber": "",
       "notes": "ক্যাশ ও ইনভেন্টরি তদারকি"
     },
     {
-      "id": 6,
+      "id": 3,
       "name": "সাকিবুল হাসান (Sakib)",
       "designation": "হার্ডওয়্যার ও টেকনিশিয়ান",
       "phone": "01812345678",
       "monthlySalary": 22000,
-      "joiningDateMillis": 1788607177547,
+      "joiningDateMillis": 1788725850150,
       "isActive": true,
       "address": "মিরপুর, ঢাকা",
       "nidNumber": "",
@@ -493,7 +563,7 @@
       "employeeName": "তানজিল আহমেদ (Tanjil)",
       "monthYear": "অক্টোবর ২০২৬",
       "amountPaid": 15000,
-      "paymentDateMillis": 1793618377559,
+      "paymentDateMillis": 1793737050156,
       "paymentMethod": "ক্যাশ",
       "paymentType": "PARTIAL",
       "note": "অক্টোবর মাসের আংশিক বেতন (বাকি ৫,০০০)"
@@ -504,7 +574,7 @@
       "employeeName": "মোঃ আরিফুল ইসলাম (Arif)",
       "monthYear": "অক্টোবর ২০২৬",
       "amountPaid": 28000,
-      "paymentDateMillis": 1793531977559,
+      "paymentDateMillis": 1793650650156,
       "paymentMethod": "ব্যাংক ট্রান্সফার",
       "paymentType": "FULL",
       "note": "অক্টোবর মাসের পূর্ণ বেতন পরিশোধিত"
@@ -519,7 +589,7 @@
       "role": "ADMIN",
       "phone": "01930833375",
       "isActive": true,
-      "createdAt": 1793791177473
+      "createdAt": 1793909850092
     },
     {
       "id": 2,
