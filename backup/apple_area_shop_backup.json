@@ -1,8 +1,8 @@
 {
   "app": "Apple Area Shop",
   "version": "1.0",
-  "backupTimestamp": 1793958036611,
-  "exportDate": "2026-11-06 15:40:36",
+  "backupTimestamp": 1793958085788,
+  "exportDate": "2026-11-06 15:41:25",
   "settings": {
     "shopName": "Apple Area BD",
     "shopTagline": "Buy Sell & Exchange",
@@ -688,7 +688,7 @@
       "fullName": "Emon MaMa",
       "role": "MANAGER",
       "phone": "",
-      "isActive": true,
+      "isActive": false,
       "createdAt": 1793750357369
     },
     {
