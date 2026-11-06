@@ -1,8 +1,8 @@
 {
   "app": "Apple Area Shop",
   "version": "1.0",
-  "backupTimestamp": 1793958087340,
-  "exportDate": "2026-11-06 15:41:27",
+  "backupTimestamp": 1793958090569,
+  "exportDate": "2026-11-06 15:41:30",
   "settings": {
     "shopName": "Apple Area BD",
     "shopTagline": "Buy Sell & Exchange",
@@ -698,7 +698,7 @@
       "fullName": "Riaz Vai",
       "role": "STAFF",
       "phone": "",
-      "isActive": true,
+      "isActive": false,
       "createdAt": 1793750306101
     }
   ]
