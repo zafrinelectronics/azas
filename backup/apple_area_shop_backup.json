@@ -1,8 +1,8 @@
 {
   "app": "Apple Area Shop",
   "version": "1.0",
-  "backupTimestamp": 1793917502315,
-  "exportDate": "2026-11-06 04:25:02",
+  "backupTimestamp": 1793957769794,
+  "exportDate": "2026-11-06 15:36:09",
   "settings": {
     "shopName": "Apple Area BD",
     "shopTagline": "Buy Sell & Exchange",
@@ -77,7 +77,7 @@
       "imei": "357890123456780",
       "status": "SOLD",
       "notes": "Sold with silicone case",
-      "createdAt": 1793909850144,
+      "createdAt": 1793917807888,
       "returnReason": "",
       "returnedAt": null,
       "returnRefundAmount": 0,
@@ -95,9 +95,9 @@
       "purchasePrice": 138000,
       "targetSalePrice": 148000,
       "imei": "354891098234125",
-      "status": "RETURNED",
+      "status": "SOLD",
       "notes": "USA LL\/A, 1 Year International Warranty",
-      "createdAt": 1793909850139,
+      "createdAt": 1793917807881,
       "returnReason": "",
       "returnedAt": null,
       "returnRefundAmount": 0,
@@ -117,7 +117,7 @@
       "imei": "359871023456789",
       "status": "RETURNED",
       "notes": "Very fresh, 10 days replacement",
-      "createdAt": 1793909850139,
+      "createdAt": 1793917807881,
       "returnReason": "",
       "returnedAt": null,
       "returnRefundAmount": 0,
@@ -137,7 +137,7 @@
       "imei": "351234567890123",
       "status": "RETURNED",
       "notes": "No scratches, full body lamination",
-      "createdAt": 1793909850139,
+      "createdAt": 1793917807881,
       "returnReason": "",
       "returnedAt": null,
       "returnRefundAmount": 0,
@@ -157,7 +157,7 @@
       "imei": "356789012345678",
       "status": "RETURNED",
       "notes": "Only original charger included",
-      "createdAt": 1793909850139,
+      "createdAt": 1793917807881,
       "returnReason": "",
       "returnedAt": null,
       "returnRefundAmount": 0,
@@ -177,7 +177,7 @@
       "imei": "359012345678901",
       "status": "RETURNED",
       "notes": "Snapdragon Edition, Official BTRC Approved",
-      "createdAt": 1793909850139,
+      "createdAt": 1793917807881,
       "returnReason": "",
       "returnedAt": null,
       "returnRefundAmount": 0,
@@ -197,7 +197,7 @@
       "imei": "353456789012345",
       "status": "RETURNED",
       "notes": "Mint condition, eSIM active",
-      "createdAt": 1793909850139,
+      "createdAt": 1793917807881,
       "returnReason": "",
       "returnedAt": null,
       "returnRefundAmount": 0,
@@ -287,6 +287,26 @@
   "sales": [
     {
       "id": 2,
+      "productId": 1,
+      "invoiceNumber": "AABD-518501",
+      "productDetails": "Apple iPhone 15 Pro Max (256GB, Natural Titanium)",
+      "imei": "354891098234125",
+      "batteryHealth": "100%",
+      "boxCondition": "সিল প্যাক (Sealed Box)",
+      "customerName": "kabir vai",
+      "customerPhone": "01758596044",
+      "customerAddress": "Dhaka",
+      "costPrice": 138000,
+      "salePrice": 50000,
+      "paidAmount": 48000,
+      "dueAmount": 2000,
+      "paymentMethod": "ক্যাশ (Cash)",
+      "warrantyInfo": "• 7 Days Replacement Guarantee Without physical Damage & Touch Display.\n• 2 Years Service Warranty Without Parts & update issue.\n• 30% - 35% Deducted From Sell Amount and Exchange.",
+      "soldAt": 1793957518509,
+      "remarks": "দুই হাজার টাকা আগামীকাল দিয়ে দিতে হবে।।"
+    },
+    {
+      "id": 3,
       "productId": 9,
       "invoiceNumber": "AABD-778181",
       "productDetails": "Apple iPhone 3 (64GB, Orchid)",
@@ -306,7 +326,7 @@
       "remarks": "কিছুদিনের ভিতরেই দিয়ে দিবে"
     },
     {
-      "id": 3,
+      "id": 4,
       "productId": 7,
       "invoiceNumber": "AABD-112257",
       "productDetails": "Apple iPhone 14 Pro Max (256GB, Space Black)",
@@ -342,13 +362,33 @@
       "dueAmount": 6000,
       "paymentMethod": "ক্যাশ + বিকাশ",
       "warrantyInfo": "১০ দিনের রিপ্লেসমেন্ট এবং ১ বছর ফ্রি সার্ভিস ওয়ারেন্টি",
-      "soldAt": 1793737050146,
+      "soldAt": 1793745007891,
       "remarks": "বাকি ৬,০০০ টাকা আগামী মাসের ১ তারিখে দেবে।"
     }
   ],
   "expenses": [
     {
+      "id": 3,
+      "type": "EXPENSE",
+      "category": "নাস্তা ও আপ্যায়ন",
+      "amount": 650,
+      "note": "কাস্টমার এবং স্টাফদের দুপুরের নাস্তা ও চা",
+      "dateMillis": 1793831407947,
+      "paymentMethod": "Cash",
+      "referenceId": null
+    },
+    {
       "id": 7,
+      "type": "INCOME",
+      "category": "সার্ভিসিং বিল",
+      "amount": 3500,
+      "note": "iPhone 13 ব্যাটারি পরিবর্তন সার্ভিস চার্জ",
+      "dateMillis": 1793831407947,
+      "paymentMethod": "Cash",
+      "referenceId": null
+    },
+    {
+      "id": 8,
       "type": "INCOME",
       "category": "সার্ভিসিং বিল",
       "amount": 3500,
@@ -358,7 +398,7 @@
       "referenceId": null
     },
     {
-      "id": 3,
+      "id": 9,
       "type": "EXPENSE",
       "category": "নাস্তা ও আপ্যায়ন",
       "amount": 650,
@@ -373,12 +413,22 @@
       "category": "কর্মচারীর বেতন",
       "amount": 15000,
       "note": "বেতন: তানজিল আহমেদ (Tanjil) (অক্টোবর ২০২৬) - PARTIAL",
+      "dateMillis": 1793745007947,
+      "paymentMethod": "ক্যাশ",
+      "referenceId": "SALARY_2"
+    },
+    {
+      "id": 10,
+      "type": "EXPENSE",
+      "category": "কর্মচারীর বেতন",
+      "amount": 15000,
+      "note": "বেতন: তানজিল আহমেদ (Tanjil) (অক্টোবর ২০২৬) - PARTIAL",
       "dateMillis": 1793737050160,
       "paymentMethod": "ক্যাশ",
       "referenceId": "SALARY_2"
     },
     {
-      "id": 8,
+      "id": 11,
       "type": "EXPENSE",
       "category": "নাস্তা ও আপ্যায়ন",
       "amount": 650,
@@ -388,7 +438,7 @@
       "referenceId": null
     },
     {
-      "id": 9,
+      "id": 12,
       "type": "INCOME",
       "category": "সার্ভিসিং বিল",
       "amount": 3500,
@@ -403,12 +453,22 @@
       "category": "কর্মচারীর বেতন",
       "amount": 28000,
       "note": "বেতন: মোঃ আরিফুল ইসলাম (Arif) (অক্টোবর ২০২৬) - FULL",
+      "dateMillis": 1793658607947,
+      "paymentMethod": "ব্যাংক ট্রান্সফার",
+      "referenceId": "SALARY_1"
+    },
+    {
+      "id": 13,
+      "type": "EXPENSE",
+      "category": "কর্মচারীর বেতন",
+      "amount": 28000,
+      "note": "বেতন: মোঃ আরিফুল ইসলাম (Arif) (অক্টোবর ২০২৬) - FULL",
       "dateMillis": 1793650650160,
       "paymentMethod": "ব্যাংক ট্রান্সফার",
       "referenceId": "SALARY_1"
     },
     {
-      "id": 10,
+      "id": 14,
       "type": "EXPENSE",
       "category": "কর্মচারীর বেতন",
       "amount": 15000,
@@ -423,12 +483,22 @@
       "category": "বিদ্যুৎ ও ইউটিলিটি",
       "amount": 4500,
       "note": "দোকানের বিদ্যুৎ বিল পরিশোধ",
+      "dateMillis": 1793572207947,
+      "paymentMethod": "বিকাশ",
+      "referenceId": null
+    },
+    {
+      "id": 15,
+      "type": "EXPENSE",
+      "category": "বিদ্যুৎ ও ইউটিলিটি",
+      "amount": 4500,
+      "note": "দোকানের বিদ্যুৎ বিল পরিশোধ",
       "dateMillis": 1793564250159,
       "paymentMethod": "বিকাশ",
       "referenceId": null
     },
     {
-      "id": 11,
+      "id": 16,
       "type": "EXPENSE",
       "category": "কর্মচারীর বেতন",
       "amount": 28000,
@@ -443,12 +513,22 @@
       "category": "দোকান ভাড়া",
       "amount": 35000,
       "note": "বসুন্ধরা সিটি শপ নং ১০০ এর চলতি মাসের ভাড়া",
+      "dateMillis": 1793485807947,
+      "paymentMethod": "ব্যাংক চেক",
+      "referenceId": null
+    },
+    {
+      "id": 17,
+      "type": "EXPENSE",
+      "category": "দোকান ভাড়া",
+      "amount": 35000,
+      "note": "বসুন্ধরা সিটি শপ নং ১০০ এর চলতি মাসের ভাড়া",
       "dateMillis": 1793477850159,
       "paymentMethod": "ব্যাংক চেক",
       "referenceId": null
     },
     {
-      "id": 12,
+      "id": 18,
       "type": "EXPENSE",
       "category": "বিদ্যুৎ ও ইউটিলিটি",
       "amount": 4500,
@@ -458,7 +538,7 @@
       "referenceId": null
     },
     {
-      "id": 13,
+      "id": 19,
       "type": "EXPENSE",
       "category": "বিদ্যুৎ ও ইউটিলিটি",
       "amount": 4500,
@@ -473,12 +553,22 @@
       "category": "ওয়াইফাই ও ইন্টারনেট",
       "amount": 1200,
       "note": "দোকানের হাইস্পিড ব্রডব্যান্ড বিল",
+      "dateMillis": 1793399407947,
+      "paymentMethod": "বিকাশ",
+      "referenceId": null
+    },
+    {
+      "id": 20,
+      "type": "EXPENSE",
+      "category": "ওয়াইফাই ও ইন্টারনেট",
+      "amount": 1200,
+      "note": "দোকানের হাইস্পিড ব্রডব্যান্ড বিল",
       "dateMillis": 1793391450159,
       "paymentMethod": "বিকাশ",
       "referenceId": null
     },
     {
-      "id": 14,
+      "id": 21,
       "type": "EXPENSE",
       "category": "দোকান ভাড়া",
       "amount": 35000,
@@ -488,7 +578,7 @@
       "referenceId": null
     },
     {
-      "id": 15,
+      "id": 22,
       "type": "EXPENSE",
       "category": "দোকান ভাড়া",
       "amount": 35000,
@@ -498,7 +588,7 @@
       "referenceId": null
     },
     {
-      "id": 16,
+      "id": 23,
       "type": "EXPENSE",
       "category": "ওয়াইফাই ও ইন্টারনেট",
       "amount": 1200,
@@ -508,7 +598,7 @@
       "referenceId": null
     },
     {
-      "id": 17,
+      "id": 24,
       "type": "EXPENSE",
       "category": "ওয়াইফাই ও ইন্টারনেট",
       "amount": 1200,
@@ -525,7 +615,7 @@
       "designation": "সিনিয়র সেলস এক্সিকিউটিভ",
       "phone": "01930833375",
       "monthlySalary": 20000,
-      "joiningDateMillis": 1786133850150,
+      "joiningDateMillis": 1786141807895,
       "isActive": true,
       "address": "ফার্মগেট, ঢাকা",
       "nidNumber": "",
@@ -537,7 +627,7 @@
       "designation": "ম্যানেজার (Store Manager)",
       "phone": "01758596640",
       "monthlySalary": 28000,
-      "joiningDateMillis": 1778357850150,
+      "joiningDateMillis": 1778365807895,
       "isActive": true,
       "address": "পান্থপথ, ঢাকা",
       "nidNumber": "",
@@ -549,7 +639,7 @@
       "designation": "হার্ডওয়্যার ও টেকনিশিয়ান",
       "phone": "01812345678",
       "monthlySalary": 22000,
-      "joiningDateMillis": 1788725850150,
+      "joiningDateMillis": 1788733807895,
       "isActive": true,
       "address": "মিরপুর, ঢাকা",
       "nidNumber": "",
@@ -563,7 +653,7 @@
       "employeeName": "তানজিল আহমেদ (Tanjil)",
       "monthYear": "অক্টোবর ২০২৬",
       "amountPaid": 15000,
-      "paymentDateMillis": 1793737050156,
+      "paymentDateMillis": 1793745007911,
       "paymentMethod": "ক্যাশ",
       "paymentType": "PARTIAL",
       "note": "অক্টোবর মাসের আংশিক বেতন (বাকি ৫,০০০)"
@@ -574,7 +664,7 @@
       "employeeName": "মোঃ আরিফুল ইসলাম (Arif)",
       "monthYear": "অক্টোবর ২০২৬",
       "amountPaid": 28000,
-      "paymentDateMillis": 1793650650156,
+      "paymentDateMillis": 1793658607911,
       "paymentMethod": "ব্যাংক ট্রান্সফার",
       "paymentType": "FULL",
       "note": "অক্টোবর মাসের পূর্ণ বেতন পরিশোধিত"
@@ -589,7 +679,7 @@
       "role": "ADMIN",
       "phone": "01930833375",
       "isActive": true,
-      "createdAt": 1793909850092
+      "createdAt": 1793917807836
     },
     {
       "id": 2,
